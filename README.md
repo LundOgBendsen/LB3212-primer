@@ -1,0 +1,85 @@
+# Lund og Bendsen 3212 - primer - for Micro Services
+
+Dette [git repository](https://github.com/LundOgBendsen/LB3212-primer) indeholder indledende aktiviteter som man kan gøre før kurset
+
+
+* Først skal man have egen personlig konto på github.
+  * Åben browser og indtast url: https://github.com/LundOgBendsen/
+  * Har konto allerede!
+    * Hvis du har en konto på github - så er det fint at bruge den.
+  * No account
+    * Opret en konto ved at følge [linket](https://github.com/) *Sign up*
+    * Kontoen er din egen personlige konto og er  **ikke** relateret til LundOgBendsen eller et firma du arbejder for. 
+    Med mindre du anvender en email fra det firma du arbejder ved (hvilket også er ok at gøre)
+  * Herefter vil vi tilføje dig til gruppen **LB3212-users** så du får adgang til det egentlige kursus materiale. 
+
+Adgang til denne side (dette repository) er helt er åben for alle. Adgangen til kursus materialet kræver at du er med i gruppen.
+Ligesom det materiale vi laver sammen i gruppen kun deles med gruppen.
+
+Når kurset er forbi vil materialet være langtidstilgængelig 
+på [kursus portalen](https://kursusportal.it) - 
+her vil du kunne logge ind og finde materialet til dette kursus. 
+
+
+## Bash
+
+Værktøjerne omkring Micro Services er baseret på værktøjer som *Docker* som er *Unix* baserede. 
+Således er kurset baseret på Unix med eksempler baseret på unix shell scripts som køres med  **bash**.
+
+Materialet er beskrevet ud fra at man anvender Unix. Derfor kan det være en god ide at installere Ununtu (se senere) - eller
+ hvis man gerne vil anvende Windows i det mindste at installere **gitbash** - som giver en udemærket bash shell til Windows.
+
+### Install "bash"
+
+* Linux - Ubuntu (standard course material) 
+* Macosx - bash er bygget ind.   
+* Windows - gitbash (Windows only'ers)
+
+### Lille bash kursus
+Her er et lille [bash-kursus](./bash-course.md) i **bash** - som du med fordel kan lave hvis du ikke kender **bash**   
+
+
+## Clone git repository "primer" til denne maskine
+
+Når du har fået startet bash på maskinen. Så er det tid til at klone dette projekt til maskinen og følge resten af **primer**
+Start en bash shell og indtast (cut and paste) 
+```
+#
+# Gå til dit hjemme katalog (det gør "cd uden noget") 
+#
+cd
+mkdir -pv lb/micro
+cd lb/micro
+
+#
+# Nu skal repositoriet hentes ned fra github til maskinen og hedde "primer"
+#
+git clone https://github.com/LundOgBendsen/LB3212-primer.git primer 
+cd primer
+
+# Nu skulle du gerne stå i direcory som hedder "primer" 
+pwd
+
+```
+
+# Installation af software
+
+* [Docker](docker.md) 
+
+## Java
+
+
+# Maven
+
+# Ide
+
+# Nginx
+
+# Kafka
+
+# Firefox + restClient
+
+
+
+
+
