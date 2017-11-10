@@ -13,9 +13,9 @@ det er ikke længere nødvendig.
 
 ## Installation af software
 
-https://www.docker.com/docker-ubuntu
-https://www.docker.com/docker-mac
-https://www.docker.com/docker-windows - vælg "CE"
+* https://www.docker.com/docker-ubuntu
+* https://www.docker.com/docker-mac
+* https://www.docker.com/docker-windows - vælg "CE"
 
 
 Installer docker og kør
