@@ -54,6 +54,6 @@ docker run hello-world
 
 ```
 
-Herefter kan vi lave testen af docker, som er beskrevet fælles for alle platforme.
+Herefter kan vi lave testen af docker, som er beskrevet [fælles for alle platforme](docker.md). 
 
 
