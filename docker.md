@@ -13,9 +13,28 @@ det er ikke længere nødvendig.
 
 ## Installation af software
 
+Brug afsnittet for installation enten linux, mac eller windows.
+
+### Linux
+
+* [Først skal maskinen startes op](./ubuntu.md) - her opsætning af Linux
 * https://www.docker.com/docker-ubuntu
+
+
+### Macosx
+
 * https://www.docker.com/docker-mac
-* https://www.docker.com/docker-windows - (se detaljer nedenfor)
+
+
+### Windows
+
+* Medbring windows PC
+* [Installation af docker på windows](docker_windows.md)
+
+
+## Test og afprøvning af Docker
+
+Når du har installeret docker som du ønsker kan du teste den lidt.
 
 
 Installer docker og kør
@@ -30,15 +49,17 @@ Spørgsmål:
 * Og hvorfor skal man skrive "-a" her?
 
 ```
-docker run -it ubuntu bash
-# du kommer ud af denne run kommando ved at skrive "exit"
+docker run -d -p 888:80 --name webserver nginx
 
 ```
-Spørgsmål: Mens shell kører ubuntu kommandoen ovenfor
 
-* Hvordan kan man se hvad der foregår i Docker miljøet? (hint start ny shell)
-* Hvad viser kommandoen "docker ps" ?
+Prøv at starte en broweser og åbne url: http://localhost:888
 
+Spørgsmål: Mens shell kører nginx kommandoen ovenfor
+
+* Hvad viser kommandoen "docker ps" nu ?
+* hvad betyder --name webserver ?
+* Hvad betyder -p 888:80 ?
 
 
 
@@ -49,50 +70,4 @@ For at kunne uploade er det nødvendigt at have en konto.
 
 På kurset vil vi umiddelbart ikke anvende dockerhub. 
 Vi bygger images lokalt og køre dem lokalt. 
-
-
-# Maskinspecifikke noter
-
-### Linux
-
-* https://www.docker.com/docker-ubuntu
-
-
-
-### Macosx
-
-* https://www.docker.com/docker-mac
-
-
-### Windows
-
-Docker kan køre på windows i udviklingsfasen mens man i driften anbefales at køre på linux. 
-I dette kursus er eksemplerne ganske enkle og kører på den lokale maskine. 
-
-Der er to måder at køre på windows. 
-* **Docker toolbox** - den klassiske med Linux installeret i VirtualBox på PC'en. 
-* **Docker for Windows**  den "nye" hvor alt er i et med Hyper-V virtualisering.  
-
-Afhængig af din windows version kan du køre **Windows** eller blive nødsaget til at køre **Toolbox** 
-
-Her er valgt **Docker Windows** udgaven. 
-
-Følg vejledning: https://docs.docker.com/docker-for-windows/install/
-
-Nedenstående er alene noter til installationen. Det er vigtigt at følge installationenen på Dockers 
-hjemmeside.
-
-
-* Vælg CE
-* Vælg mulighed for at køre fra CMD (så kan den også køre fra [gitbach](./gitbash.md)) 
-* "docker-users group" (brugeren skal være medlem af denne gruppe eller du skal køre stand alone)
-* docker run hello-world
-
-Hvis man kører window i VM-ware - så vil Hyber-V virtualiseringen foregå på et nested niveau. 
-Her skal man huske at enable virtualization i VM-ware under memory.
-
-Docker kører ikke rasende hurtig på den måde. Modsat på linux hvor man stort set ikke kan mærke at der starter en Docker mere.
-
-Interaktive Docker ( med -it ) kan køres fra PowerShell
-
 
