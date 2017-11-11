@@ -60,6 +60,5 @@ hjemmeside.
 * Vælg CE
 * Vælg mulighed for at køre fra CMD (så kan den også køre fra [gitbach](./gitbash.md)) 
 * "docker-users group" (brugeren skal være medlem af denne gruppe eller du skal køre stand alone)
-* 
 * docker run hello-world
-
+* xx
