@@ -3,10 +3,15 @@
 
 Nedenstående beskriver installation af Docker på Ubuntu
 
+ 
+
 Bemærk at Ubuntu og Git skal være installeret først. Se: [Ubuntu og Git](ubuntu.md)
 
 Bemærk at man ikke downloader noget fra Docker hjemmesiden, 
 derimod anvendes **apt-get** installations værktøjet.  
+
+
+Se Dockers hjemmeside: https://www.docker.com/docker-ubuntu - her beskrives nedenstående installation.
 
 Start en shell "bash" - og kør
 

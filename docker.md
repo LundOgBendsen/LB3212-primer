@@ -17,13 +17,14 @@ Brug afsnittet for installation enten linux, mac eller windows.
 
 ### Linux
 
-* [Først skal maskinen startes op](./ubuntu.md) - her opsætning af Linux
-* https://www.docker.com/docker-ubuntu
+* [Først skal maskinen startes op](./ubuntu.md) - her installeres Linux og Git
+* [Installation af Docker](docker_ubuntu.md) - her installeres Docker på Linux
 
 
-### Macosx
+### MacOsx
 
 * https://www.docker.com/docker-mac
+
 
 
 ### Windows
