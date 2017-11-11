@@ -3,7 +3,7 @@
 
 
 
-## Docker
+## Docker på Windows
 
 Docker kan køre på windows i udviklingsfasen mens man i driften anbefales at køre på linux. 
 I dette kursus er eksemplerne ganske enkle og kører på den lokale maskine. 
@@ -33,3 +33,5 @@ Her skal man huske at enable virtualization i VM-ware under memory.
 Docker kører ikke rasende hurtig på den måde. Modsat på linux hvor man stort set ikke kan mærke at der starter en Docker mere.
 
 Interaktive Docker ( med -it ) kan køres fra PowerShell
+
+Det skal ikke skjules at Docker kører godt på [Linux](docker_ubuntu.md)
