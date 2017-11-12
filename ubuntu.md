@@ -8,15 +8,15 @@ Downloaded: ftp://ftp.klid.dk/ubuntu-cd/16.04.3/ubuntu-16.04.3-desktop-amd64.iso
 
 Download gik meget langsomt, så jeg endte med at hente den via BitTorrent - dette står beskrevet på Ubuntu hjemmeside. 
 
-Installer opdateringer
+* Installer opdateringer (Linux vil nu genstarte)
+* Sætte dansk keyboard: https://www.wikihow.com/Change-Keyboard-Layout-in-Ubuntu
+* Det er nyttigt at vide hvordan man starter en kommando prompt. Tast **Control+Alt+T**  (Det bruger man hele tiden) 
 
-Linux vil nu genstarte
 
-### start a shell
-
-find terminal application og lås denne til launch bar
 
 ### Install Git
+
+Start en kommando terminal ved samtidig at trykke på **Control+Alt+T**
 
 ```
 
@@ -24,21 +24,11 @@ sudo apt install git
 
 ```
 
-### load primer
+### Følg primer forløbet
 
-
-```
-cd
-mkdir -pv lb/micro/
-cd lb/micro/
-git clone https://github.com/LundOgBendsen/LB3212-primer.git primer 
-
-```
-
-
-# Installation af resten af Ubuntu
-
+* [Clone primer](clone-primer.md) - få primer git projektet ned på Ubuntu maskinen
 * [Docker på Ubuntu](docker_ubuntu.md)
-
+* [Java](java.md) 
+* [Maven](maven.md) 
 
 

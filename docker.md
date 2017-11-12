@@ -17,6 +17,7 @@ Brug afsnittet for installation enten linux, mac eller windows.
 
 ### Linux
 
+* [Linux på PC](windows_virtualbox.md) - Det er muligt at starte Linux i en virtuel maskine inde i PC'en
 * [Først skal maskinen startes op](./ubuntu.md) - her installeres Linux og Git
 * [Installation af Docker](docker_ubuntu.md) - her installeres Docker på Linux
 
@@ -24,7 +25,6 @@ Brug afsnittet for installation enten linux, mac eller windows.
 ### MacOsx
 
 * https://www.docker.com/docker-mac
-
 
 
 ### Windows
