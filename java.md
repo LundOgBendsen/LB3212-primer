@@ -35,18 +35,19 @@ Dette løser vi med at angive "batch mode" ved installation i Docker..
 ### Sæt JAVA_HOME
 
 Vi skal have tilføjet linien
-JAVA_HOME="/usr/lib/jvm/java-8-oracle" 
-til filen /etc/environment
+export JAVA_HOME="/usr/lib/jvm/java-8-oracle"
 
+til filen ~/.bashrc 
 
 ```
 
-sudo nano /etc/environment
-#tilføj nu linien
-#...
+sudo nano ~/.bashrc
+# gå til bunden af filen
+# tilføj nu linien
+export JAVA_HOME="/usr/lib/jvm/java-8-oracle"
 # gem filen
 
-source /etc/environment
+source ~/.bashrc
 
 echo $JAVA_HOME
 
@@ -56,7 +57,8 @@ echo $JAVA_HOME
 ```
 Spørgsmål:
 
-* Hvad betyder "source ..." ? 
+* Hvad betyder "source ..." ?
+* Hvad betyder "~" foran "/.bashrc" ? 
 
 
 ### Kontroller at java er installeret
