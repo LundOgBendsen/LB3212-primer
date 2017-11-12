@@ -1,5 +1,6 @@
 # Ubuntu
 
+Ubuntu kan installeres direkte på en PC eller som en virtuel maksine. Se [Virtual Box](windows_virtualbox.md) 
 
 ## Install Ubuntu
 
@@ -33,7 +34,7 @@ git clone https://github.com/LundOgBendsen/LB3212-primer.git primer
 ```
 
 
-# Instalation af resten af ubuntu
+# Installation af resten af Ubuntu
 
 * [Docker på Ubuntu](docker_ubuntu.md)
 

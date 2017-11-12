@@ -1,7 +1,4 @@
-
 # Windows
-
-
 
 ## Docker på Windows
 
@@ -9,7 +6,7 @@ Docker kan køre på windows i udviklingsfasen mens man i driften anbefales at k
 I dette kursus er eksemplerne ganske enkle og kører på den lokale maskine. 
 
 Der er to måder at køre på windows. 
-* **Docker toolbox** - den klassiske med Linux installeret i VirtualBox på PC'en. 
+* **Docker toolbox** - den klassiske med Linux installeret i [VirtualBox på PC'en](windows_virtualbox.md). 
 * **Docker for Windows**  den "nye" hvor alt er i et med Hyper-V virtualisering.  
 
 Afhængig af din windows version kan du køre **Windows** eller blive nødsaget til at køre **Toolbox** 
