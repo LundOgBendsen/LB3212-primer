@@ -20,28 +20,12 @@ Når kurset er forbi vil materialet være langtidstilgængelig
 på [kursus portalen](https://kursusportal.it) - 
 her vil du kunne logge ind og finde materialet til dette kursus. 
 
-
 ## Bash
-
-Værktøjerne omkring Micro Services er baseret på værktøjer som *Docker* som er *Unix* baserede. 
-Således er kurset baseret på Unix med eksempler baseret på unix shell scripts som køres med  **bash**.
-
-Materialet er beskrevet ud fra at man anvender Unix. Derfor kan det være en god ide at installere Ununtu (se senere) - eller
- hvis man gerne vil anvende Windows i det mindste at installere **gitbash** - som giver en udemærket bash shell til Windows.
-
-### Install "bash"
-
-* Linux - Ubuntu (standard course material) 
-* Macosx - bash er bygget ind.   
-* Windows - gitbash (Windows only'ers)
-
-### Lille bash kursus
-Her er et lille [bash-kursus](./bash-course.md) i **bash** - som du med fordel kan lave hvis du ikke kender **bash**   
-
+Kurset anvender Docker så det er vigtigt at kende bash. Se [installation af bash](bash.md)
 
 ## Clone git repository "primer" til denne maskine
 
-Når du har fået startet bash på maskinen. Så er det tid til at klone dette projekt til maskinen og følge resten af **primer**
+Når du har fået startet [bash på maskinen](bash.md). Så er det tid til at klone dette projekt til maskinen og følge resten af **primer**
 Start en bash shell og indtast (cut and paste) 
 ```
 #
