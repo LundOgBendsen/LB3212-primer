@@ -17,9 +17,10 @@ sudo apt-get install maven
 
 ``` 
 
-Installation af Maven har synes jeg ikke rigtig er er blevet ordentlig automatiseret på de 3 hovedplatforme.
+Installation af Maven har synes jeg ikke rigtig er er blevet ordentlig automatiseret på de 3 hoved-platforme.
 
-Ovennævnte version er en 3.3.9 version.
+Ovennævnte version er en 3.3.9 version. Hvis du kører java 9 er den lidt for gammel.
+Du kan prøve at opgradere den til 3.5.2 hvis du har tid. Se Reference henvisning nederst på siden.
 
 
 ## Test maven installation
@@ -39,8 +40,6 @@ OS name: "linux", version: "4.10.0-38-generic", arch: "amd64", family: "unix"
 ``` 
 
 ## Test at Maven kan compile
-
-
 
 ```
 mvn package
@@ -65,7 +64,13 @@ Prøv at køre jar filen som maven byggede ovenfor
 
 ```
 
-java -jar mvntest/target/mvntest-1.0-SNAPSHOT.jar "Hans Christian Andersen"
+java -jar mvntest/target/mvntest-1.0-SNAPSHOT.jar Hans Christian Andersen
 # her skal java sige hej ...
 
 ``` 
+
+# Reference
+
+* Installation med apt (som vist ovenfor): https://www.mkyong.com/maven/how-to-install-maven-in-ubuntu/ 
+* Installation af maven "fra bunden" : https://www.vultr.com/docs/how-to-install-apache-maven-on-ubuntu-16-04
+
