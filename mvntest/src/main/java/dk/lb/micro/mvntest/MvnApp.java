@@ -1,10 +1,10 @@
 package dk.lb.micro.mvntest;
 
-import java.util.Arrays;
 
 public class MvnApp {
 
     public static void main(String[] args){
-        System.out.println("Hej "+ Arrays.toString(args));
+        String msg=args.length==0?"":(args.length==1?args[0]:(args[0]+" "+args[1]));
+        System.out.println("Hej "+ msg);
     }
 }
