@@ -62,6 +62,12 @@ firefox http://localhost:888
 
 # alternativ hedder det ALT F2 og paste firefox http://localhost:888
 
+# I Windows skriver man
+explorer http://localhost:888
+
+# På Mac'en skriver man
+open http://localhost:888
+
 ```
 
 Spørgsmål: Mens shell kører nginx kommandoen ovenfor
