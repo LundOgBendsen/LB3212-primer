@@ -21,7 +21,24 @@ Se: https://www.virtualbox.org - her kan du finde forholdene omkring din maskine
 
 ## Installation af Virtual Box på Windows 10
 
-Her er mine noter omkring installation af Virtual Box på Windows 10 Pro
+Her er mine noter omkring installation af Virtual Box på Windows 10 Pro.
+
+* Downloaded: VirtualBox-5.2.0-118431-Win.exe
+* Installeret. Ja til at installere Oracle Drivere
+
+### Installeret Ubuntu Linux
+
+Nu starter man Virtual Box på Windows
+
+Intel HiberV settings skal være sat rigtigt på Windows hosten for at man kan køre 64 bit udgaven.
+
+Min maskine er en 64 Bit maskine. Jeg installerede **ubuntu-16.04.3-desktop-amd64.iso** som beskrvet i [Ubuntu Linux](ubuntu.md)
+* Navn: Microservices
+* Type: Linux
+* Version: Ubuntu (64-bit). 
+
+
+Se [Ubuntu Linux](ubuntu.md) for den videre historie
 
 
 

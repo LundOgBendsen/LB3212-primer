@@ -6,6 +6,8 @@ Ubuntu kan installeres direkte på en PC eller som en virtuel maksine. Se [Virtu
 
 Downloaded: ftp://ftp.klid.dk/ubuntu-cd/16.04.3/ubuntu-16.04.3-desktop-amd64.iso
 
+Download gik meget langsomt, så jeg endte med at hente den via BitTorrent - dette står beskrevet på Ubuntu hjemmeside. 
+
 Installer opdateringer
 
 Linux vil nu genstarte

@@ -82,9 +82,7 @@ find * | grep "sh"
 ```
 
 
-
 # Eksamensspørgsmål
-
 
 ## Find og grep
 
@@ -104,3 +102,16 @@ Spørgsmål:
 1. hvad laver -v efter grep"? 
 
 Prøv at finde svar til spørgsmålende
+
+## Opgave 5 - sudo 
+
+Når man installerer git på [Ubuntu](ubuntu.md) skriver vi "sudo ..." 
+```
+sudo apt install git
+
+```
+
+# Eksamensspørgsmål
+
+1. Hvad betyder sudo ?
+1. Hvad kan problemet være ved hele tiden at køre som superbruger ?

@@ -26,12 +26,15 @@ Kurset anvender Docker så det er vigtigt at kende bash. Se [installation af bas
 ## Clone git repository "primer" til denne maskine
 
 Når du har fået startet [bash på maskinen](bash.md). Så er det tid til at klone dette projekt til maskinen og følge resten af **primer**
-Start en bash shell og indtast (cut and paste) 
+
+Start en bash shell og indtast (cut and paste nedenstående ind i bash) 
 ```
 #
 # Gå til dit hjemme katalog (det gør "cd uden noget") 
-#
 cd
+#
+# Opret directory struktur lb/micro. 
+# Her vil vi arbejde under hele forløbet. 
 mkdir -pv lb/micro
 cd lb/micro
 
@@ -52,9 +55,9 @@ Nedenfor kommer en række værktøjer og programmer som er relevant for kurset.
 Hvis du kommer med egen maskine - og har installeret systemerne lidt anderledes end nedenfor vill det være helt fint.
 
 Hvis du ikke har mulighed for at få programmerne installeret vil det stadig være muligt at få 
-udbyttet af kurset. Idet adskillige opgaver er på et "design" niveau hvor papir og blyant er det vi arbejder med.
+udbyttet af kurset. Idet adskillige opgaver er på et "design" niveau hvor værktøjerne er papir og blyant.
 
-Ligeldes er det muligt at arbejde sammen i små grupper omkring samme maskine.  
+Ligeledes er det muligt at arbejde sammen i små grupper omkring samme maskine.  
 
 På workshop dagen vil behovet for værktøjer være afhængig af det område du har deltager i.
 
