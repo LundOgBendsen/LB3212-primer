@@ -56,6 +56,14 @@ docker run -d -p 888:80 --name webserver nginx
 
 Prøv at starte en broweser og åbne url: http://localhost:888
 
+```
+# På Ubuntu kan man i bash skrive
+firefox http://localhost:888
+
+# alternativ hedder det ALT F2 og paste firefox http://localhost:888
+
+```
+
 Spørgsmål: Mens shell kører nginx kommandoen ovenfor
 
 * Hvad viser kommandoen "docker ps" nu ?

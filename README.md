@@ -7,7 +7,7 @@ Dette [git repository](https://github.com/LundOgBendsen/LB3212-primer) indeholde
   * Åben browser og indtast url: https://github.com/LundOgBendsen/
   * Har konto allerede!
     * Hvis du har en konto på github - så er det fint at bruge den.
-  * No account
+  * Ingen konto
     * Opret en konto ved at følge [linket](https://github.com/) *Sign up*
     * Kontoen er din egen personlige konto og er  **ikke** relateret til LundOgBendsen eller et firma du arbejder for. 
     Med mindre du anvender en email fra det firma du arbejder ved (hvilket også er ok at gøre)
