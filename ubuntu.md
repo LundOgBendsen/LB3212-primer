@@ -22,6 +22,10 @@ Start en kommando terminal ved samtidig at trykke på **Control+Alt+T**
 
 sudo apt install git
 
+
+# a GUI 
+sudo apt-get install git-cola
+
 ```
 
 ### Følg primer forløbet

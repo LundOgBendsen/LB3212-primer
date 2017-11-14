@@ -28,7 +28,7 @@ Kurset anvender Docker så det er vigtigt at kende bash. Se [installation af bas
 [Clone primer](clone-primer.md)
 
 
-# Installation af software
+## Installation af software
 
 Nedenfor kommer en række værktøjer og programmer som er relevant for kurset.
 Hvis du kommer med egen maskine - og har installeret systemerne lidt anderledes end nedenfor vill det være helt fint.
@@ -48,7 +48,17 @@ På workshop dagen vil behovet for værktøjer være afhængig af det område du
 * Kafka
 * Firefox + restClient
 
+# Forberedelse - læsestof
 
+For at få så meget som muligt ud af kurset har jeg valgt noget litteratur som jeg vil anbefale at du læser
+
+[Litteratur](litteratur/LIT.md)
+
+
+Jeg vil gerne at du får svaret på **deltager spørgsmålene** inden vi ses.  
+
+Vel mødt 
+/Anders 
 
 
 
