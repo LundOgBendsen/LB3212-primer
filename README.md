@@ -46,7 +46,7 @@ På workshop dagen vil behovet for værktøjer være afhængig af det område du
 * Ide
 * Nginx
 * Kafka
-* Firefox + restClient
+* [Firefox + restClient](rest-client.md)
 
 # Forberedelse - læsestof
 

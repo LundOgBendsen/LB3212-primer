@@ -77,7 +77,6 @@ Spørgsmål: Mens shell kører nginx kommandoen ovenfor
 * Hvad betyder -p 888:80 ?
 
 
-
 ## Oprettelse af konto på DockerHub
 
 Docker har et repository hvor der opbevares docker images. 
@@ -86,3 +85,10 @@ For at kunne uploade er det nødvendigt at have en konto.
 På kurset vil vi umiddelbart ikke anvende dockerhub. 
 Vi bygger images lokalt og køre dem lokalt. 
 
+# play-with-docker.com
+ 
+Det er muligt at køre docker ude i byen...
+
+[play-with-docker.com](https://labs.play-with-docker.com/) - Her kan du køre Dockers 
+
+Jeg har kørt den i både Firefox og Crome
