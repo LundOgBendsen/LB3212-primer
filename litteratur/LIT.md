@@ -3,7 +3,7 @@
 Inden du kommer til kurset vil det være godt at have læst om **Micro Services** - 
 så vil der være begreber under kurset som du allerede kender mere til.
 
-Det er en god måde at få endnu mere ud af kurset.
+Det er en god måde at få endnu mere ud af kurset. Der også god inspiration til workshop.
 
 Jeg har valgt nogle offentlige eBooks. 
 
