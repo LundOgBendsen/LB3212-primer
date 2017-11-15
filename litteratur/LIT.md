@@ -7,17 +7,16 @@ Det er en god måde at få endnu mere ud af kurset. Der også god inspiration ti
 
 Jeg har valgt nogle offentlige eBooks. 
 
-## Jonas Boner
+## Jonas Bonér
 
 Jonas Boner har skrevet et godt teoretisk indlæg ved navn "Reactive Micro Services". 
 Her har Jonas fat i emner som "Monolitten", SOA, isolation, Konway's Law, 
 "Do one thing", state, events og asynkrone beskeder.
 
-[Reactive Micro Services](Reactive_Microservices_Architecture.pdf)
+[Reactive Micro Services](Reactive_Microservices_Architecture_uddrag.pdf) - uddrag af Reactive Microservices Architecture forfattet af Jonas Bonér udgivet af O’Reilly Media
 
-**Pensum:** Jeg vil gerne at du læser side 1 til 25 inden kurset.
+**Pensum:** Jeg vil gerne at du læser uddraget inden kurset.
 
-Hele dokumentet er på 48 sider - og det er du naturligvis velkommen til tage med.
 
 
 ## Christian Posta
@@ -26,11 +25,10 @@ Christian Posta har skrevet om micro services set fra en udvikler.
 
 Her sammenligner han Spring Boot, Drop Wizard og Wildfly Swarm
 
-[Microservices for Java Developers](Microservices_for_Java_Developers.pdf)
+[Microservices for Java Developers](Microservices_for_Java_Developers_uddrag.pdf) - uddrag af  Microservices for Java Developers forfattet af Christian Posta udgivet af O’Reilly Media, 
 
-**Pensum:** Jeg vil gerne at du læser side 1 til 17 inden kurset.
+**Pensum:** Jeg vil gerne at du læser uddraget inden kurset.
 
-Dokumentet er ialt på 120 sider. Jeg synes ikke det er nødvendigt at hele dokumentet som foreberedelse.
 
 
     
