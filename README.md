@@ -1,4 +1,4 @@
-# Lund og Bendsen 3212 - primer - for Micro Services
+# Lund&Bendsen 3212 - primer - for Micro Services
 
 Dette [git repository](https://github.com/LundOgBendsen/LB3212-primer) indeholder indledende aktiviteter som man kan gøre før kurset
 
