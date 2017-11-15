@@ -9,7 +9,7 @@ Dette [git repository](https://github.com/LundOgBendsen/LB3212-primer) indeholde
     * Hvis du har en konto på github - så er det fint at bruge den.
   * Ingen konto
     * Opret en konto ved at følge [linket](https://github.com/) *Sign up*
-    * Kontoen er din egen personlige konto og er  **ikke** relateret til LundOgBendsen eller et firma du arbejder for. 
+    * Kontoen er din egen personlige konto og er  **ikke** relateret til Lund&Bendsen eller et firma du arbejder for. 
     Med mindre du anvender en email fra det firma du arbejder ved (hvilket også er ok at gøre)
   * På kurset vil vi tilføje dig til gruppen **LB3212-users** så du får adgang til det egentlige kursusmateriale. 
 
