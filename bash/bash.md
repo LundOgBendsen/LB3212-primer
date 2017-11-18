@@ -1,5 +1,7 @@
 # Bash
 
+[Hjem](../README.md)
+
 Værktøjerne omkring Micro Services er baseret på værktøjer som *Docker* som er *Unix* baserede. 
 Således er kurset baseret på Unix med eksempler baseret på unix shell scripts som køres med  **bash**.
 
@@ -25,3 +27,5 @@ Her er et lille [bash-kursus](./bash-course.md) i **bash** - som du med fordel k
 Det er muligt at lave et setup for kurset, der kun "virker" i directory lb/micro/...
 Prøv at se på [direnv](https://direnv.net)  
 Dette er ikke en del af kurset.       
+
+[Hjem](../README.md)
