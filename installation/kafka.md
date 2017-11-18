@@ -1,5 +1,7 @@
-
 # kafka
+[Tilbage](installation.md)
+
+
 
 1. Home: [kafka](https://kafka.apache.org)
 2. Installation
@@ -30,5 +32,8 @@ ll ~/lb/micro/kafka/current
 
 
 
+## Noter
 
 Note on RabbitMq vs Kafka: https://content.pivotal.io/blog/understanding-when-to-use-rabbitmq-or-apache-kafka
+
+[Tilbage](installation.md)
