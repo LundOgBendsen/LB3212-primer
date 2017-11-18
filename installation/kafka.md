@@ -31,6 +31,41 @@ ll ~/lb/micro/kafka/current
 
 ## Kontrol af installation
 
+Starter 2 processer og lægger dem i baggrunden.
+
+
+```
+cd ~/lb/micro/kafka/current
+
+nohup bin/zookeeper-server-start.sh config/zookeeper.properties &
+nohup bin/kafka-server-start.sh config/server.properties &
+```
+
+
+Kommando prompten skulle nu være klar til nyt input
+```
+bin/kafka-topics.sh --create --zookeeper localhost:2181 --replication-factor 1 --partitions 1 --topic subscriptionAccepted
+# Skal skrive
+Created topic "subscriptionAccepted".
+
+bin/kafka-topics.sh --list --zookeeper localhost:2181
+# skal skrive 
+subscriptionAccepted
+```
+
+Stop de to processer
+```
+bin/kafka-server-stop.sh ; bin/zookeeper-server-stop.sh 
+
+```
+
+Du kan gå videre med Kafka på [Kafka Quick Start](https://kafka.apache.org/quickstart)
+
+
+## Opgave
+Hvis du starter serverne igen, og lister topics, så vil du se at **subscriptionAccepted** allerede findes
+
+* Hvor gemmer Kafka data?
 
 
 ## Noter
