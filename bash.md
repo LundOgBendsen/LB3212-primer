@@ -20,3 +20,8 @@ bort fra dele af dette materiale.
 Her er et lille [bash-kursus](./bash-course.md) i **bash** - som du med fordel kan lave hvis du ikke kender **bash**   
 
 
+## Den udvidede - eller hvis du har Linux i forvejen
+
+Det er muligt at lave et setup for kurset, der kun "virker" i directory lb/micro/...
+Prøv at se på [direnv](https://direnv.net)  
+Dette er ikke en del af kurset.       
