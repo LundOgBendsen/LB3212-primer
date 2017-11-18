@@ -1,4 +1,5 @@
 # Docker
+[Tilbage](installation.md)
 
 Når vi bruger "micro-services" er det vigtigt at kunne installere og afvikle de enkelte services hver for sig. 
 Derfor bruger vi Docker i dette kursus.
@@ -92,3 +93,5 @@ Det er muligt at køre docker ude i byen...
 [play-with-docker.com](https://labs.play-with-docker.com/) - Her kan du køre Dockers 
 
 Jeg har kørt den i både Firefox og Crome
+
+[Tilbage](installation.md)

@@ -1,6 +1,6 @@
 ## Installation af software
 
-[Hjem](../README.md)
+[Tilbage](../README.md)
 
 Nedenfor kommer en række værktøjer og programmer som er relevant for kurset.
 Hvis du kommer med egen maskine - og har installeret systemerne lidt anderledes end nedenfor vill det være helt fint.
@@ -18,6 +18,6 @@ På workshop dagen vil behovet for værktøjer være afhængig af det område du
 * Ide
 * Nginx
 * Kafka
-* [Firefox + restClient](rest-client.md)
+* [restClient](rest-client.md)
 
-[Hjem](../README.md)
+[Tilbage](../README.md)

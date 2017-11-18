@@ -1,4 +1,9 @@
-# Firefox RestClient
+## RestClient
+[Tilbage](installation.md)
+
+Klienter til at kalde REST services - med HTTP header variable, rest body m.v. og og til at vise resultatet. 
+
+## Firefox RestClient
 
 Det er for det meste almindelige url'er der anvendes i Microservices. Og man kan
 derfor bruge en almindelig web brower til at hente data.
@@ -6,6 +11,8 @@ derfor bruge en almindelig web brower til at hente data.
 Det er imidlertid JSON der oftest kommer ud af sprøjten.
 
 Derfor kan det være en fordel at have installeret et rest plugin i browseren
+
+Det kan også være at din browser viser REST på en god måde fra starten. 
 
 
 ## restClient til Firefox
@@ -62,3 +69,5 @@ alias json='python -m json.tool'
 http://www.jsoneditoronline.org/
 
 God hjælp til at få formatteret JSON
+
+[Tilbage](installation.md)

@@ -1,6 +1,6 @@
 # Konto Github
 
-[Hjem](../README.md)
+[Tilbage](../README.md)
 
 
 Først skal man have egen personlig konto på github.
@@ -21,4 +21,4 @@ Når kurset er forbi vil materialet være langtidstilgængelig
 på [kursusportalen](https://kursusportal.it) - 
 her vil du kunne logge ind og finde materialet til dette kursus. 
 
-[Hjem](../README.md)
+[Tilbage](../README.md)

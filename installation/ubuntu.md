@@ -1,4 +1,5 @@
 # Ubuntu
+[Hjem](../README.md) - [Installation](installation.md) - [Bash](../bash/bash.md)
 
 Ubuntu kan installeres direkte på en PC eller som en virtuel maksine. Se [Virtual Box](windows_virtualbox.md) 
 
@@ -34,5 +35,7 @@ sudo apt-get install git-cola
 * [Docker på Ubuntu](docker_ubuntu.md)
 * [Java](java.md) 
 * [Maven](maven.md) 
+
+[Hjem](../README.md) - [Installation](installation.md) - [Bash](../bash/bash.md)
 
 

@@ -1,4 +1,5 @@
 # Installation af Gitbash
+[Tilbage](bash.md)
 
 
 Åben i browser: https://github.com/git-for-windows/git/releases/tag/v2.14.3.windows.1
@@ -19,4 +20,4 @@ og når programmet er startet kan man gå i proceslinien og fastgøre gitbash ti
 Installationen er nu færdig
 Prøv at hente **primer** fra github.
 
-Gå tilbage [README](README.md) 
+[Tilbage](bash.md)

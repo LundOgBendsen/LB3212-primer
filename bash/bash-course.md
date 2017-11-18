@@ -1,4 +1,5 @@
 # Lynkursus i bash
+[Tilbage](bash.md)
 
 Det er vigtigt at når du møder på kurset er istand til at forstå bash kommandoer
 
@@ -115,3 +116,6 @@ sudo apt install git
 
 1. Hvad betyder sudo ?
 1. Hvad kan problemet være ved hele tiden at køre som superbruger ?
+
+[Tilbage](bash.md)
+

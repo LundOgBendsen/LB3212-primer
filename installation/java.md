@@ -1,4 +1,5 @@
 # Java
+[Tilbage](installation.md)
 
 Her er beskrevet hvordan du installerer java på Ubuntu.
 Det er en tilsvarende proces vi anvender til at installere java i Dockers, derfor kan vi 
@@ -78,3 +79,5 @@ Java HotSpot(TM) 64-Bit Server VM (build 25.151-b12, mixed mode)
 Her kan du se Digital Oceans vejledning:
 
 https://www.digitalocean.com/community/tutorials/how-to-install-java-with-apt-get-on-ubuntu-16-04
+
+[Tilbage](installation.md)

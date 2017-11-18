@@ -1,5 +1,5 @@
 # Clone Primer
-[Hjem](README.md)
+[Tilbage](README.md)
 
 Sådan får du "installeret" primer git projektet på din maskine
 
@@ -29,4 +29,4 @@ pwd
 
 Når det er lykkedes at få primer på egen maskine, så er det tid at gå videre med installationer og forberedelser.
 
-[Hjem](README.md)
+[Tilbage](README.md)

@@ -1,4 +1,5 @@
 # Virtual box på Windows
+[Tilbage](installation.md)
 
 Det er muligt at køre [Ubuntu Linux](ubuntu.md) i en virtuel maskine på PC'en. 
 
@@ -39,6 +40,9 @@ Min maskine er en 64 Bit maskine. Jeg installerede **ubuntu-16.04.3-desktop-amd6
 
 
 Se [Ubuntu Linux](ubuntu.md) for den videre historie
+
+[Tilbage](installation.md)
+
 
 
 

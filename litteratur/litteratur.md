@@ -1,6 +1,6 @@
 # Litteratur - forberedelse
 
-[Hjem](../README.md)
+[Tilbage](../README.md)
 
 
 Inden du kommer til kurset vil det være godt at have læst om **Micro Services** - 
@@ -32,6 +32,6 @@ Her sammenligner han Spring Boot, Drop Wizard og Wildfly Swarm
 
 **Pensum:** Jeg vil gerne at du læser uddraget inden kurset.
 
-[Hjem](../README.md)
+[Tilbage](../README.md)
 
     
