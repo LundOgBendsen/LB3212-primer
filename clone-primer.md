@@ -1,9 +1,9 @@
 # Clone Primer
-[Tilbage](README.md)
+[Hjem](README.md) - [Ubuntu](installation/ubuntu.md)
 
 Sådan får du "installeret" primer git projektet på din maskine
 
-Når du har fået startet [bash på maskinen](bash.md). Så er det tid til at klone dette projekt til maskinen og følge resten af **primer**
+Når du har fået startet [bash på maskinen](bash/bash.md). Så er det tid til at klone dette projekt til maskinen og følge resten af **primer**
 
 Start en bash shell og indtast (cut and paste nedenstående ind i bash) 
 ```
@@ -29,4 +29,4 @@ pwd
 
 Når det er lykkedes at få primer på egen maskine, så er det tid at gå videre med installationer og forberedelser.
 
-[Tilbage](README.md)
+[Hjem](README.md) - [Ubuntu](installation/ubuntu.md)
