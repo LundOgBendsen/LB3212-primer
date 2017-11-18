@@ -20,42 +20,14 @@ Når kurset er forbi vil materialet være langtidstilgængelig
 på [kursusportalen](https://kursusportal.it) - 
 her vil du kunne logge ind og finde materialet til dette kursus. 
 
-## Bash
-Kurset anvender Docker så det er vigtigt at kende bash. Se [installation af bash](bash.md)
+## Aktiviteter
 
-## Clone git repository "primer" til denne maskine
-
-[Clone primer](clone-primer.md)
-
-
-## Installation af software
-
-Nedenfor kommer en række værktøjer og programmer som er relevant for kurset.
-Hvis du kommer med egen maskine - og har installeret systemerne lidt anderledes end nedenfor vill det være helt fint.
-
-Hvis du ikke har mulighed for at få programmerne installeret vil det stadig være muligt at få 
-udbyttet af kurset. Idet adskillige opgaver er på et "design" niveau hvor værktøjerne er papir og blyant.
-
-Ligeledes er det muligt at arbejde sammen i små grupper omkring samme maskine.  
-
-På workshop dagen vil behovet for værktøjer være afhængig af det område du har deltager i.
-
-* [Docker](docker.md) 
-* [Java](java.md) 
-* [Maven](maven.md) 
-* Ide
-* Nginx
-* Kafka
-* [Firefox + restClient](rest-client.md)
-
-# Forberedelse - læsestof
-
-For at få så meget som muligt ud af kurset har jeg valgt noget litteratur som jeg vil anbefale at du læser
-
-[Litteratur](litteratur/LIT.md)
-
-
-Jeg vil gerne at du får svaret på **deltager spørgsmålene** inden vi ses.  
+1. Opret/brug konto på Github (som beskrevet ovenfor) 
+1. Bash - kurset anvender Docker så det er vigtigt at kende bash. [Se installation af bash](bash/bash.md)
+1. Clone - git repository "primer" til denne maskine [se clone primer](clone-primer.md)
+1. Installation - [se installationer til kurset](installation/installation.md)
+1. Forberedelse - læsestof [se litteratur](litteratur/litteratur.md)
+1. Jeg vil gerne at du får svaret på **deltager spørgsmålene** inden vi ses.  
 
 Vel mødt 
 /Anders 
