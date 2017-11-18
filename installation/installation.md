@@ -17,7 +17,7 @@ På workshop dagen vil behovet for værktøjer være afhængig af det område du
 * [Maven](maven.md) 
 * Ide
 * Nginx
-* Kafka
+* [Kafka](kafka.md)
 * [restClient](rest-client.md)
 
 [Tilbage](../README.md)

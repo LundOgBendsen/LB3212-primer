@@ -35,6 +35,7 @@ sudo apt-get install git-cola
 * [Docker på Ubuntu](docker_ubuntu.md)
 * [Java](java.md) 
 * [Maven](maven.md) 
+* [Kafka](kafka.md)
 
 [Hjem](../README.md) - [Installation](installation.md) - [Bash](../bash/bash.md)
 
