@@ -15,9 +15,10 @@ På workshop dagen vil behovet for værktøjer være afhængig af det område du
 * [Docker](docker.md) 
 * [Java](java.md) 
 * [Maven](maven.md) 
-* Ide
-* Nginx
+* Ide - Installer din foretrukne IDE. 
 * [Kafka](kafka.md)
 * [restClient](rest-client.md)
+* [jHipster](jhipster.md)
+* Nginx - (senere)
 
 [Tilbage](../README.md)
