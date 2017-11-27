@@ -13,7 +13,7 @@ Jeg har valgt nogle offentlige eBooks.
 ## Jonas Bonér
 
 Jonas Boner har skrevet et godt teoretisk indlæg ved navn "Reactive Micro Services". 
-Her har Jonas fat i emner som "Monolitten", SOA, isolation, Konway's Law, 
+Her har Jonas fat i emner som "Monolitten", SOA, isolation, Conway's Law, 
 "Do one thing", state, events og asynkrone beskeder.
 
 [Reactive Micro Services](Reactive_Microservices_Architecture_uddrag.pdf) - uddrag af Reactive Microservices Architecture forfattet af Jonas Bonér udgivet af O’Reilly Media
