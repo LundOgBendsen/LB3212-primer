@@ -14,8 +14,8 @@ På workshop dagen vil behovet for værktøjer være afhængig af det område du
 
 * [Docker](docker.md) 
 * JDK - [Linux JDK](jdk_ubuntu.md) - [Windows JDK](jdk_windows.md) 
-* [Maven](maven.md)
-* [Gradle](gradle.md) -
+* [Maven](maven.md) - Hvis man ikke kender Maven er det godt at stifte bekendtskab, idet idegrundlag fra Maven fortsætter i Gradle. 
+* [Gradle](gradle.md) - Anvendes i kurset. 
 * Ide - Installer din foretrukne IDE.
 * [Kafka](kafka.md)
 * [restClient](rest-client.md)

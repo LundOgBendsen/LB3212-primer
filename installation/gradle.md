@@ -66,31 +66,30 @@ OS: (macos)   Mac OS X 10.13.1 x86_64
 ## Test at Gradle virker og kan compile
 
 ```
-mvn package
-# her skal maven downloade en masse filer og slutte med 
-[INFO] ------------------------------------------------------------------------
-[INFO] Reactor Summary:
-[INFO] 
-[INFO] primer ............................................. SUCCESS [  2.557 s]
-[INFO] mvntest ............................................ SUCCESS [ 14.670 s]
-[INFO] ------------------------------------------------------------------------
-[INFO] BUILD SUCCESS
-[INFO] ------------------------------------------------------------------------
-[INFO] Total time: 17.434 s
-[INFO] Finished at: 2017-11-12T12:59:20-08:00
-[INFO] Final Memory: 22M/233M
+cd gradletest
+
+gradle build
+
+# her skal gradle downloade filer og skrive
+ 
+
+BUILD SUCCESSFUL in 1s
+5 actionable tasks: 5 executed
 
 ``` 
 
 ## Test at programmet kan køre
 
-Prøv at køre jar filen som maven byggede ovenfor
+Prøv at køre jar filen som Gradle byggede ovenfor
 
 ```
 
-java -jar mvntest/target/mvntest-1.0-SNAPSHOT.jar Hans Christian Andersen
-# her skal Java sige hej ...
+gradle run -Dexec.args="Hans Christian Andersen"
 
-``` 
+```
+
+## Med alene java hedder det
+
+java -jar build/libs/gradletest-0.1.0.jar Hans Christian Andersen 
 
 [Tilbage](installation.md)

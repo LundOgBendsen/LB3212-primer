@@ -82,7 +82,7 @@ buildNumber.properties
 !/.mvn/wrapper/maven-wrapper.jar
 ### Gradle template
 .gradle
-/build/
+**/build/
 
 # Ignore Gradle GUI config
 gradle-app.setting
@@ -115,4 +115,7 @@ gradle-app.setting
 
 # mpeltonen/sbt-idea plugin
 
+
+# # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
+# gradle/wrapper/gradle-wrapper.properties
 
