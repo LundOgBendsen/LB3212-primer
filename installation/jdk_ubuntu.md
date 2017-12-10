@@ -1,8 +1,8 @@
 # Java
 [Tilbage](installation.md)
 
-Her er beskrevet hvordan du installerer java på Ubuntu.
-Det er en tilsvarende proces vi anvender til at installere java i Dockers, derfor kan vi 
+Her er beskrevet hvordan du installerer Java på Ubuntu.
+Det er en tilsvarende proces vi anvender til at installere Java i Dockers, derfor kan vi 
 bruge nedenstående senere.
 
 Da dette er et kursus er installationen er forholdsvis manuel, så du ser hvad der sker.
@@ -13,7 +13,7 @@ På kurset anvender vi lige for tiden Java 8.
 
 Nedenfor er angivet både installation af 8 og 9. (9'eren er kommenteret ud)
 
-Vi installerer java 8 på Ubuntu.
+Vi installerer Java 8 på Ubuntu.
 Start en Ubuntu "Terminal" (bash) og kør kommandoerne
 
 
@@ -62,7 +62,7 @@ Spørgsmål:
 * Hvad betyder "~" foran "/.bashrc" ? 
 
 
-### Kontroller at java er installeret
+### Kontroller at Java er installeret
 
 ```
 java -version

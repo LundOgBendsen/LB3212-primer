@@ -33,8 +33,9 @@ sudo apt-get install git-cola
 
 * [Clone primer](../clone-primer.md) - få primer git projektet ned på Ubuntu maskinen
 * [Docker på Ubuntu](docker_ubuntu.md)
-* [Java](java.md) 
+* [Java](jdk_ubuntu.md) 
 * [Maven](maven.md) 
+* [Gradle](gradle.md) 
 * [Kafka](kafka.md)
 
 [Hjem](../README.md) - [Installation](installation.md) - [Bash](../bash/bash.md)

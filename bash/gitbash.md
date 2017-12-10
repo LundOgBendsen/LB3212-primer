@@ -20,4 +20,7 @@ og når programmet er startet kan man gå i proceslinien og fastgøre gitbash ti
 Installationen er nu færdig
 Prøv at hente **primer** fra github.
 
+
+Git bash kan forstærkes lidt for at køre [gradle](../installation/gradle.md) via [sdkman](https://io.sdkman)
+
 [Tilbage](bash.md)

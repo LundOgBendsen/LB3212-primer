@@ -13,9 +13,10 @@ Ligeledes er det muligt at arbejde sammen i små grupper omkring samme maskine.
 På workshop dagen vil behovet for værktøjer være afhængig af det område du har deltager i.
 
 * [Docker](docker.md) 
-* [Java](java.md) 
-* [Maven](maven.md) 
-* Ide - Installer din foretrukne IDE. 
+* JDK - [Linux JDK](jdk_ubuntu.md) - [Windows JDK](jdk_windows.md) 
+* [Maven](maven.md)
+* [Gradle](gradle.md) -
+* Ide - Installer din foretrukne IDE.
 * [Kafka](kafka.md)
 * [restClient](rest-client.md)
 * [jHipster](jhipster.md)

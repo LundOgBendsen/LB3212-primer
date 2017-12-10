@@ -3,7 +3,7 @@
 
 Vi skal have mulighed for at bygge war og jar filer til at putte i Dockers
 
-Hertil kan vi bruge[Maven](https://maven.apache.org). 
+Hertil kan vi bruge [Maven](https://maven.apache.org). 
 
 Hvis du anvender Java 9 - vil det være vigtigt at den Maven du har installeret ikke er ældre end version (3.5.x).
 
@@ -20,7 +20,7 @@ sudo apt-get install maven
 
 Installation af Maven har synes jeg ikke rigtig er er blevet ordentlig automatiseret på de 3 hoved-platforme.
 
-Ovennævnte version er en 3.3.9 version. Hvis du kører java 9 er den lidt for gammel.
+Ovennævnte version er en 3.3.9 version. Hvis du kører Java 9 er den lidt for gammel.
 Du kan prøve at opgradere den til 3.5.2 hvis du har tid. Se Reference henvisning nederst på siden.
 
 
@@ -66,7 +66,7 @@ Prøv at køre jar filen som maven byggede ovenfor
 ```
 
 java -jar mvntest/target/mvntest-1.0-SNAPSHOT.jar Hans Christian Andersen
-# her skal java sige hej ...
+# her skal Java sige hej ...
 
 ``` 
 
