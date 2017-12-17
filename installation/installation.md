@@ -20,6 +20,7 @@ På workshop dagen vil behovet for værktøjer være afhængig af det område du
 * [Kafka](kafka.md)
 * [restClient](rest-client.md)
 * [jHipster](jhipster.md)
+* [Jenkins](../jenkins/jenkins.md) Jenkins - CI
 * Nginx - (senere)
 
 [Tilbage](../README.md)
