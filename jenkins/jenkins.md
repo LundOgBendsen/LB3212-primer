@@ -61,6 +61,11 @@ Der er lidt forskellige vejledninger på nettet. Vedlagte script bruger kun et v
 Åben en bash i `~/lb/micro/primer/jenkins`
 ```
 ./start_jenkins.sh
+
+#pause until started.. and see password to 
+
+cat data/secrets/initialAdminPassword
+
 ```
 
 * Powershell (Windows 10)
@@ -75,12 +80,14 @@ windows_jenkins_start.ps1
 
 ## Konfigurer jenkins
 
-åben en browser på `http://jenkins.course#8080`
+åben en browser på `http://jenkins.course:8888`
 
-* Angiv start password. Se vejledning på skærm. Filen er i `data/..`
+* Angiv start password. Se vejledning på skærm. Filen er i `data/secrets/initialAdminPassword`
 * Load default plugins
-* Lav en bruger ved navn='adm' / password='adm' og angiv din egen email.
+* Lav en bruger ved navn='adm' / password=<<lad browseren autogenerere>> og angiv din egen email.
 
+Det er vigtigt at password ikke er nemt, idet Jenkins er kendt i cloud. 
+Og vi derfor ikke bør gøre det **for nemt** at hacke serveren.  
 
 
 ### Litteratur
