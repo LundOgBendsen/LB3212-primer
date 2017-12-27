@@ -87,7 +87,24 @@ windows_jenkins_start.ps1
 * Lav en bruger ved navn='adm' / password=<<lad browseren autogenerere>> og angiv din egen email.
 
 Det er vigtigt at password ikke er nemt, idet Jenkins er kendt i cloud. 
-Og vi derfor ikke bør gøre det **for nemt** at hacke serveren.  
+Og vi derfor ikke bør gøre det **for nemt** at hacke serveren.
+
+## Glemt password
+Hvis man glemmer password til brugeren. Så kan man gå ind på jenkins serveren
+
+```
+docker stop jenkins
+editer filen
+vim data/users/adm/config.xml
+ret passwordHash til nedenstående
+<passwordHash>#jbcrypt:$2a$10$razd3L1aXndFfBNHO95aj.IVrFydsxkcQCcLmujmFQzll3hcUrY7S</passwordHash>
+
+```
+Start serveren og gå ind som `adm` og skriv password `test` 
+Ret password til et godt password.
+
+Denne metode kan læses på [stackoverflow](https://stackoverflow.com/questions/6988849/how-to-reset-jenkins-security-settings-from-the-command-line) Note #103
+  
 
 
 ### Litteratur
