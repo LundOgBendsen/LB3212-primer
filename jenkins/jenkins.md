@@ -90,10 +90,14 @@ Det er vigtigt at password ikke er nemt, idet Jenkins er kendt i cloud.
 Og vi derfor ikke bør gøre det **for nemt** at hacke serveren.
 
 ## Glemt password
-Hvis man glemmer password til brugeren. Så kan man gå ind på jenkins serveren
+Hvis man glemmer password til brugeren. Så kan man gå ind på jenkins server
 
 ```
+# sæt default directory til kursets docker-jenkins-home - hvor jenkins data er monteret. 
+cd ~/lb/micro/primer/jenkins/
+
 docker stop jenkins
+
 editer filen
 vim data/users/adm/config.xml
 ret passwordHash til nedenstående
