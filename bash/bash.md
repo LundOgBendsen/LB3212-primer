@@ -22,11 +22,13 @@ bort fra dele af dette materiale.
 ## Lille bash kursus
 Her er et lille [bash-kursus](./bash-course.md) i **bash** - som du med fordel kan lave hvis du ikke kender **bash**   
 
+God note om kommandolinien, se: [Sådan bruger du kontrol taster på kommandolinien](https://clementc.github.io/blog/2018/01/25/moving_cli/?utm_source=DigitalOcean_Newsletter)        
 
 ## Den udvidede - eller hvis du har Linux i forvejen
 
 Det er muligt at lave et setup for kurset, der kun "virker" i directory lb/micro/...
 Prøv at se på [direnv](https://direnv.net)  
-Dette er ikke en del af kurset.       
+Dette er ikke en del af kurset.
+
 
 [Tilbage](../README.md)
